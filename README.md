@@ -1,4 +1,4 @@
-# Awin Apollo Perez's Portfolio
+# Awin Apollo Perez's Teaching Portfolio
 
 Hello! My name is Awin Apollo Perez, I am currently an undergraduate at the University of California, San Diego.
 
